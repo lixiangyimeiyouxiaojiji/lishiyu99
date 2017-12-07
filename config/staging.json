@@ -1,0 +1,10 @@
+{
+    "env": "staging",
+//    "base_api": "http://180.212.221.110:9999/solrindex",
+//    "base_api": "http://36.106.78.240:9999/solrindex",
+    "base_api": "http://faii.com.cn:9999/solrindex",
+    "assetsSubDirectory": "static",
+    "assetsPublicPath": "/",
+    "cssSourceMap": false,
+    "domain": ""
+}

@@ -1,15 +1,31 @@
-// The Vue build version to load with the `import` command
-// (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
-import App from './App'
-import router from './router'
+import VueRouter from 'vue-router'
+import vueResource from 'vue-resource'
+import configRouter from './router'
+import Element from 'element-ui'
 
-Vue.config.productionTip = false
+Vue.use(Element);
+Vue.use(VueRouter);
+Vue.use(vueResource);
 
-/* eslint-disable no-new */
-new Vue({
-  el: '#app',
-  router,
-  template: '<App/>',
-  components: { App }
-})
+const router = new VueRouter({
+    hashbang: false,
+    mode: 'history',
+    routes: configRouter
+});
+
+const app = new Vue({
+    router,
+    watch: {
+        '$route':function(){
+            $(".modal-backdrop.fade.in").remove();
+        }
+    }
+}).$mount('#app');
+
+Vue.filter('lengthFilter', function (value, length) {
+    if(value && value.length > length){
+        value = value.substring(0, length) + "...";
+    }
+    return value;
+});

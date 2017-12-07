@@ -1,0 +1,11 @@
+{
+    "env": "production",
+//    "base_api": "http://180.212.107.230:6060/solrindex",
+    "base_api": "http://faii.com.cn:6060/solrindex",
+//    "base_api": "http://192.168.125.19:8080/solrindex",
+//    "base_api": "http://180.212.222.125:9191/solrindex",
+    "assetsSubDirectory": "static",
+    "assetsPublicPath": "/",
+    "cssSourceMap": false,
+    "domain": ""
+}

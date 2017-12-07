@@ -1,0 +1,9 @@
+{
+    "env": "development",
+    "base_api": "http://36.106.78.240:6060/solrindex",
+    "base_api_p": "http://36.106.78.240:6060/solrindex",
+    "assetsSubDirectory": "static",
+    "assetsPublicPath": "/",
+    "cssSourceMap": false,
+    "domain": ""
+}
