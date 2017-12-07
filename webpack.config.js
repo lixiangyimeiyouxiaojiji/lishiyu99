@@ -134,7 +134,7 @@ module.exports = {
     plugins: ['transform-runtime']
   },
   devServer: {
-    port: 8081,
+    port: 3010,
     contentBase: "./",
     colors: true,
     historyApiFallback: true,
