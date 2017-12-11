@@ -178,7 +178,7 @@
                 <!--PORTFOLIO IMAGE-->
                 <ul class="portfolio-image">
                   <li class="col-md-6">
-                    <a href="../../../../assets/image/bw-1.png"><img alt="image" src="../../../../assets/image/bw-1.png">
+                    <a href="../../../src/assets/image/bw-1.png"><img alt="image" src="../../../../assets/image/bw-1.png">
                       <div class="decription-wrap">
                         <div class="image-bg">
                            <p class="desc">My Resume</p>
@@ -188,7 +188,7 @@
                     </a>
                   </li>
                   <li class="col-md-6">
-                    <a href="../../../../assets/image/bw-2.png"><img alt="image" src="../../../../assets/image/bw-2.png">
+                    <a href="../../../src/assets/image/bw-2.png"><img alt="image" src="../../../../assets/image/bw-2.png">
                       <div class="decription-wrap">
                         <div class="image-bg">
                           <p class="desc">
@@ -199,7 +199,7 @@
                     </a>
                   </li>
                   <li class="col-md-6">
-                    <a href="../../../../assets/image/bw-3.png"><img alt="image" src="../../../../assets/image/bw-3.png">
+                    <a href="../../../src/assets/image/bw-3.png"><img alt="image" src="../../../../assets/image/bw-3.png">
                       <div class="decription-wrap">
                         <div class="image-bg">
                           <p class="desc">
@@ -210,7 +210,7 @@
                     </a>
                   </li>
                   <li class="col-md-6">
-                    <a href="../../../../assets/image/bw-4.png"><img alt="image" src="../../../../assets/image/bw-4.png">
+                    <a href="../../../src/assets/image/bw-4.png"><img alt="image" src="../../../../assets/image/bw-4.png">
                       <div class="decription-wrap">
                         <div class="image-bg">
                           <p class="desc">
@@ -221,7 +221,7 @@
                     </a>
                   </li>
                   <li class="col-md-6">
-                    <a href="../../../../assets/image/bw-5.png"><img alt="image" src="../../../../assets/image/bw-5.png">
+                    <a href="../../../src/assets/image/bw-5.png"><img alt="image" src="../../../../assets/image/bw-5.png">
                       <div class="decription-wrap">
                         <div class="image-bg">
                           <p class="desc">
@@ -232,7 +232,7 @@
                     </a>
                   </li>
                   <li class="col-md-6">
-                    <a href="../../../../assets/image/bw-6.png"><img alt="image" src="../../../../assets/image/bw-6.png">
+                    <a href="../../../src/assets/image/bw-6.png"><img alt="image" src="../../../../assets/image/bw-6.png">
                       <div class="decription-wrap">
                         <div class="image-bg">
                           <p class="desc">
